@@ -2,7 +2,7 @@ package Demo1.demo;
 
 import junit.framework.TestCase;
 
-public class additionTest extends TestCase {
+public class additionTest2 extends TestCase {
 	public void testAddition()
 	{
 		additionClass addClass =new additionClass();
